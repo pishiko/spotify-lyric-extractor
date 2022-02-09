@@ -1,8 +1,12 @@
 # Spotify Lyric Extractor
 
-Spotify から歌詞情報を取得する Chrome 拡張です。
+![image](https://user-images.githubusercontent.com/42219754/153245207-039d038b-773e-40be-bec5-0b932e1ad803.png)
 
-歌詞はプチリリから取得されるようです。
+Spotify から歌詞情報をjsonとして取得する Chrome 拡張です。
+
+Spotifyクライアントが取得した歌詞データを保存するため、サーバーへの負荷はありません。
+
+なお、歌詞は[プチリリ \- 歌詞投稿コミュニティ](https://petitlyrics.com/)から取得されるようです。
 
 ## 使い方
 
