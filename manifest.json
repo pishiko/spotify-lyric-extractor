@@ -1,0 +1,14 @@
+{
+  "name": "Spotify Lyric Extractor",
+  "manifest_version": 3,
+  "version": "1.0",
+  "devtools_page": "devtools.html",
+  "homepage_url": "https://github.com/pishiko/spotify-lyric-extractor",
+  "description": "https://github.com/pishiko/spotify-lyric-extractor",
+  "host_permissions":[
+    "https://open.spotify.com/"
+  ],
+  "permissions": [
+    "tabs"
+  ]
+}
